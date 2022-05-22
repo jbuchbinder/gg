@@ -1,4 +1,4 @@
-module github.com/fogleman/gg
+module github.com/jbuchbinder/gg
 
 go 1.18
 
